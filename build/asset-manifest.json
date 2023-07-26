@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9efb9827.css",
+    "main.js": "/static/js/main.cb9ae899.js",
+    "static/js/787.0904c1f0.chunk.js": "/static/js/787.0904c1f0.chunk.js",
+    "static/media/st.jpg": "/static/media/st.9ca0d2a29e13de0778fa.jpg",
+    "static/media/narcos.jpg": "/static/media/narcos.630a04bf1a4bf098d212.jpg",
+    "static/media/mmt.png": "/static/media/mmt.5f585b4ac9223037dda5.png",
+    "static/media/friends.jpg": "/static/media/friends.0fe83d903b2dd76feefe.jpg",
+    "static/media/ext.jpg": "/static/media/ext.fcc74fadec81fdf8611f.jpg",
+    "static/media/missionm.jpg": "/static/media/missionm.c0cd896eaeaa69a3e092.jpg",
+    "static/media/wed.jpg": "/static/media/wed.e3d9e8b847a1599facfd.jpg",
+    "static/media/lucy.jpg": "/static/media/lucy.4c1f5e5d02e84233256b.jpg",
+    "static/media/mh.jpg": "/static/media/mh.7d6aa4c37b515bb0a9d6.jpg",
+    "static/media/rn.jpg": "/static/media/rn.fc91fb686344ffd5c082.jpg",
+    "static/media/lucyt.png": "/static/media/lucyt.d7958dd3eeb33b5d4319.png",
+    "static/media/rnt.png": "/static/media/rnt.8f41237c44bbc0962f59.png",
+    "static/media/friends-t.png": "/static/media/friends-t.28f7c065d77db76395d7.png",
+    "static/media/narcost.png": "/static/media/narcost.ce651cff39632e56cc6a.png",
+    "static/media/loading.gif": "/static/media/loading.90672f1deffccbcdf4f1.gif",
+    "static/media/wed-t.png": "/static/media/wed-t.44d21ab27dd123d6a6b6.png",
+    "static/media/extt.png": "/static/media/extt.0e3390161613de299395.png",
+    "static/media/st-t.png": "/static/media/st-t.22110d8704c15b5235e4.png",
+    "static/media/net-logo.png": "/static/media/net-logo.a97a08e260425ea79d49.png",
+    "static/media/mht.png": "/static/media/mht.f9eb68963815aea8e4d1.png",
+    "static/media/net_no_image.jpg": "/static/media/net_no_image.5243865e2933feb3982d.jpg",
+    "static/media/netflix-logo.png": "/static/media/netflix-logo.9d1960b10e1d5e473b51.png",
+    "index.html": "/index.html",
+    "main.9efb9827.css.map": "/static/css/main.9efb9827.css.map",
+    "main.cb9ae899.js.map": "/static/js/main.cb9ae899.js.map",
+    "787.0904c1f0.chunk.js.map": "/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efb9827.css",
+    "static/js/main.cb9ae899.js"
+  ]
+}
